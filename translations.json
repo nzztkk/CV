@@ -3,18 +3,36 @@
         "name": "Нурхат Закимов",
         "position": "iOS Разработчик",
         "about_title": "Обо мне",
-        "about_text": "Я занимаюсь мобильной разработкой, создаю удобные и функциональные приложения на Swift.",
+        "about_text": "Я занимаюсь мобильной разработкой под платформу iOS.",
         "skills_title": "Навыки",
-        "education_title": "Образование",
+        "education_h1": "Образование",
+        "education_h2_1": "Университет",
+        "education_h2_2": "Факультет",
+        "education_h2_3": "Специальность",
+        "education_h2_4": "Период обучения",
+        "education_h2_5": "Уровень образования",
+        "education_text1": "Высшая школа экономики",
+        "education_text2": "Образование",
         "contact_title": "Контакты"
+
     },
     "en": {
-        "name": "Nurkhat Z.",
+        "name": "Nurkhat Zakimov",
         "position": "iOS Developer",
         "about_title": "About Me",
-        "about_text": "I am a mobile developer creating user-friendly and functional applications in Swift.",
+        "about_text": "I am a mobile developer creating applications for iOS platform.",
         "skills_title": "Skills",
-        "education_title": "Education",
+        "skills_text": "Skills",
+        "education_h1": "Education",
+        "education_h2_1": "University",
+        "education_h2_2": "Faculty",
+        "education_h2_3": "Speciality",
+        "education_h2_4": "Period of study",
+        "education_h2_5": "Level of education",
+        "education_text1": "Education",
+        "education_text2": "Education",
+
         "contact_title": "Contacts"
+        
     }
 }
