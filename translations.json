@@ -1,0 +1,20 @@
+{
+    "ru": {
+        "name": "Нурхат Закимов",
+        "position": "iOS Разработчик",
+        "about_title": "Обо мне",
+        "about_text": "Я занимаюсь мобильной разработкой, создаю удобные и функциональные приложения на Swift.",
+        "skills_title": "Навыки",
+        "education_title": "Образование",
+        "contact_title": "Контакты"
+    },
+    "en": {
+        "name": "Nurkhat Z.",
+        "position": "iOS Developer",
+        "about_title": "About Me",
+        "about_text": "I am a mobile developer creating user-friendly and functional applications in Swift.",
+        "skills_title": "Skills",
+        "education_title": "Education",
+        "contact_title": "Contacts"
+    }
+}

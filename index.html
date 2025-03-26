@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV | Nurkhat Z.</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 data-lang="name">Твоё Имя</h1>
+            <h2 data-lang="position">iOS Разработчик</h2>
+            <div class="language-switcher">
+                <button onclick="changeLanguage('ru')">🇷🇺</button>
+                <button onclick="changeLanguage('en')">🇬🇧</button>
+            </div>
+        </header>
+
+        <section class="about">
+            <h3 data-lang="about_title">Обо мне</h3>
+            <p data-lang="about_text">Я занимаюсь мобильной разработкой, создаю удобные и функциональные приложения на Swift.</p>
+        </section>
+
+        <section class="skills">
+            <h3 data-lang="skills_title">Навыки</h3>
+            <ul>
+                <li>Swift</li>
+                <li>SwiftUI</li>
+                <li>Firebase</li>
+            </ul>
+        </section>
+
+        <section class="education">
+            <h3 data-lang="education_title">Образование</h3>
+            <p>ВШЭ МИЭМ (2020-2022), СДУ (2022 - по н.в.)</p>
+        </section>
+
+        <section class="contact">
+            <h3 data-lang="contact_title">Контакты</h3>
+            <p>Email: <a href="mailto:your@email.com">your@email.com</a></p>
+            <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">Профиль</a></p>
+            <p>Telegram: <a href="https://t.me/yourusername" target="_blank">@yourusername</a></p>
+        </section>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
